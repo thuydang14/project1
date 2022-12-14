@@ -23,3 +23,9 @@ I want to investigate about potential Loan in prosper Loan Data and find answer 
 ThuyDD7.ipynb: contain the analysis and code.
 
 prosperLoanData.csv is the datasets. #data from Udacity
+
+## Reference
+
+https://seaborn.pydata.org/
+
+https://matplotlib.org/
